@@ -7,15 +7,15 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 Master's student in **Data Science** at **University of Wisconsin–Madison** (GPA: 3.67)
-- 🔬 **2× Published Researcher** — Scopus-indexed journal + UGC-certified IJCRT journal
-- 🏆 **Best Research Paper Award** at ICICRCET 2025
-- 🤖 Passionate about **Foundation Models, NLP, Computer Vision, and Agentic AI**
-- 💼 9 months of industry experience at **Prudent AI** — Python automation, ML pipelines, Power BI
-- 🌱 Currently exploring **LLM internals, statistical inference, and multi-agent systems**
-- ⚡ I build things that are both technically rigorous and practically useful
+-  Master's student in **Data Science** at **University of Wisconsin–Madison** (GPA: 3.67)
+-  **2× Published Researcher** — Scopus-indexed journal + UGC-certified IJCRT journal
+-  **Best Research Paper Award** at ICICRCET 2025
+-  Passionate about **Foundation Models, NLP, Computer Vision, and Agentic AI**
+-  9 months of industry experience at **Prudent AI** — Python automation, ML pipelines, Power BI
+-  Currently exploring **LLM internals, statistical inference, and multi-agent systems**
+-  I build things that are both technically rigorous and practically useful
 
 ---
 
@@ -69,10 +69,10 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🔹 [SignSpeak — Speech to Sign Language Conversion](https://speech-to-sign-language.vercel.app/home)
-> 🏆 Best Research Paper · ICICRCET 2025 &nbsp;|&nbsp; 📄 Published · IJCRT Vol. 13 Issue 9 (UGC Certified)
+>  Best Research Paper · ICICRCET 2025 &nbsp;|&nbsp; 📄 Published · IJCRT Vol. 13 Issue 9 (UGC Certified)
 
 End-to-end AI system converting spoken English to Indian Sign Language in real time. Combines Wav2Vec 2.0 ASR, NLP pipelines optimized for sign grammar, MediaPipe Holistic 33-point skeletal tracking, and Blender 3D animations for naturalistic hand gestures, facial cues, and body posture.
 
@@ -81,7 +81,7 @@ End-to-end AI system converting spoken English to Indian Sign Language in real t
 ---
 
 ### 🔹 [Deepfake Audio Detection using Autoencoders & Wav2Vec](https://thegrenze.com/index.php?display=page&view=journalabstract&absid=6138&id=8)
-> 📄 Published · H1nweiss Aret · Scopus Indexed · Apr 2026
+>  Published · H1nweiss Aret · Scopus Indexed · Apr 2026
 
 Deep learning pipeline to identify AI-generated speech using Wav2Vec embeddings, noise reduction, spectrogram generation, and autoencoder-based anomaly detection. Reconstruction error distributions are used to reliably distinguish authentic from synthesized audio.
 
@@ -117,7 +117,7 @@ Mobile-first app using Gemini 2.5 Flash to scan product labels and instantly ana
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
 - 📄 Published in **Scopus-indexed journal** (H1nweiss Aret, 2026)
 - 📄 Published in **IJCRT Vol. 13 Issue 9** (UGC Certified, 2025)
@@ -128,13 +128,13 @@ Mobile-first app using Gemini 2.5 Flash to scan product labels and instantly ana
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 - 🌐 Portfolio: [coders1d.github.io/portfolio](https://coders1d.github.io/portfolio/)
 - 📧 Email: siddhartha.p192003@gmail.com
 - 💻 GitHub: [CoderS1d](https://github.com/CoderS1d)
 - 🔗 LinkedIn: [Siddharthap1](https://linkedin.com/in/Siddharthap1)
-- 🧠 LeetCode: [MSD0807](https://leetcode.com/u/MSD0807/)
+-  LeetCode: [MSD0807](https://leetcode.com/u/MSD0807/)
 
 ---
 
